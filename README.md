@@ -4,7 +4,7 @@ M. McCrea 2016/11/12
 ------
 
 This README is for the run_analysis.R is script that is used to prepare a combined data set of the mean and standard deviation measureuments from the UCI HAR Dataset
-downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip[1]
+downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip [1]
 
 run_analysis.R is to be placed in the top level folder of the UCI HAR Dataset folder after it is unzipped for the relative file paths to work.
 
